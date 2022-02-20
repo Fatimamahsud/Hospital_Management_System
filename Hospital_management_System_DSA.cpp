@@ -2,7 +2,10 @@
 #include <iostream>
 using namespace std;
 
-
+//Group Members
+//Muhammad Maarij
+//Fatima Mahsud
+//Hassan Munawar
 
 //patient and emergency patients structs implementing doubly linked list and priority queues respectively
 struct patient{
